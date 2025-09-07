@@ -134,10 +134,21 @@
     },
     "f94fedf0": {
       "name": "متین حقیقی",
-      "votes": [],
+      "votes": [
+        {
+          "user_id": 6989741405,
+          "score": 5,
+          "ethics": 5,
+          "skill": 5
+        }
+      ],
       "comments": [],
       "pending_comments": []
     }
   },
-  "user_votes": {}
+  "user_votes": {
+    "6989741405": [
+      "f94fedf0"
+    ]
+  }
 }
