@@ -137,9 +137,9 @@
       "votes": [
         {
           "user_id": 6989741405,
-          "score": 0,
-          "ethics": 0,
-          "skill": 0
+          "score": 5,
+          "ethics": 5,
+          "skill": 5
         }
       ],
       "comments": [],
