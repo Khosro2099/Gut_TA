@@ -352,7 +352,14 @@
     },
     "cbabeb00": {
       "name": "مهرشاد حاجی پور",
-      "votes": [],
+      "votes": [
+        {
+          "user_id": 6989741405,
+          "score": 1,
+          "ethics": 1,
+          "skill": 1
+        }
+      ],
       "comments": [],
       "pending_comments": []
     }
@@ -364,7 +371,8 @@
       "9c5cc9aa",
       "06dfe42d",
       "82de4f97",
-      "d8ab21e3"
+      "d8ab21e3",
+      "cbabeb00"
     ],
     "5831143787": [
       "307c7437",
