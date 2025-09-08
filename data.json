@@ -509,7 +509,14 @@
     },
     "cdfa52b9": {
       "name": "صادق طاهری",
-      "votes": [],
+      "votes": [
+        {
+          "user_id": 522364817,
+          "score": 5,
+          "ethics": 5,
+          "skill": 5
+        }
+      ],
       "comments": [],
       "pending_comments": []
     },
@@ -607,7 +614,8 @@
     ],
     "522364817": [
       "949dd9a2",
-      "06dfe42d"
+      "06dfe42d",
+      "cdfa52b9"
     ]
   }
 }
