@@ -109,7 +109,14 @@
     },
     "82de4f97": {
       "name": "محمد منصوری",
-      "votes": [],
+      "votes": [
+        {
+          "user_id": 6989741405,
+          "score": 1,
+          "ethics": 1,
+          "skill": 1
+        }
+      ],
       "comments": [],
       "pending_comments": []
     },
@@ -343,7 +350,8 @@
       "f94fedf0",
       "55e1c595",
       "9c5cc9aa",
-      "06dfe42d"
+      "06dfe42d",
+      "82de4f97"
     ],
     "5831143787": [
       "307c7437",
