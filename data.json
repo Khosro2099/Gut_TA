@@ -518,7 +518,14 @@
         }
       ],
       "comments": [],
-      "pending_comments": []
+      "pending_comments": [
+        {
+          "user_name": "M.Alizadeh",
+          "text": "آقای طاهری عشقی",
+          "user_id": 522364817,
+          "candidate_id": "cdfa52b9"
+        }
+      ]
     },
     "8344342d": {
       "name": "یاسین زند",
