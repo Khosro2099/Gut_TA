@@ -2,7 +2,14 @@
   "candidates": {
     "7b8474db": {
       "name": "جواد زارعی",
-      "votes": [],
+      "votes": [
+        {
+          "user_id": 99183702,
+          "score": 5,
+          "ethics": 5,
+          "skill": 5
+        }
+      ],
       "comments": [],
       "pending_comments": []
     },
@@ -172,6 +179,9 @@
     ],
     "5831143787": [
       "307c7437"
+    ],
+    "99183702": [
+      "7b8474db"
     ]
   }
 }
