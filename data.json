@@ -565,6 +565,12 @@
           "score": 5,
           "ethics": 5,
           "skill": 5
+        },
+        {
+          "user_id": "system_khosi",
+          "score": 5,
+          "ethics": 5,
+          "skill": 5
         }
       ],
       "comments": [],
