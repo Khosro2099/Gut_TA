@@ -8470,15 +8470,15 @@
           "skill": 1
         }
       ],
-      "comments": [],
-      "pending_comments": [
+      "comments": [
         {
           "user_name": "Melika",
           "text": "نامرد",
           "user_id": 7744999496,
           "candidate_id": "5800510b"
         }
-      ]
+      ],
+      "pending_comments": []
     },
     "61f01ff0": {
       "name": "پویا افشاری",
