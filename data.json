@@ -2749,6 +2749,12 @@
           "score": 1,
           "ethics": 1,
           "skill": 1
+        },
+        {
+          "user_id": 107287716,
+          "score": 5,
+          "ethics": 5,
+          "skill": 5
         }
       ],
       "comments": [],
@@ -11495,7 +11501,8 @@
       "61f01ff0",
       "f21b94a5",
       "949dd9a2",
-      "06dfe42d"
+      "06dfe42d",
+      "9c5cc9aa"
     ],
     "216580131": [
       "d47cc18c"
