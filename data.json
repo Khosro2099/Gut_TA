@@ -8423,7 +8423,14 @@
         }
       ],
       "comments": [],
-      "pending_comments": []
+      "pending_comments": [
+        {
+          "user_name": "Melika",
+          "text": "نامرد",
+          "user_id": 7744999496,
+          "candidate_id": "5800510b"
+        }
+      ]
     },
     "61f01ff0": {
       "name": "پویا افشاری",
