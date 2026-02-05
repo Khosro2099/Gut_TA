@@ -1,3 +1,14 @@
 {
-  "registrations": []
+  "registrations": [
+    {
+      "user_id": 5831143787,
+      "username": "khosro_20999",
+      "name": "خسرو موسویان",
+      "courses": [
+        "برنامه نویسی"
+      ],
+      "timestamp": "2026-02-05T19:58:14.532605",
+      "status": "pending"
+    }
+  ]
 }
